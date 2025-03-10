@@ -1,0 +1,45 @@
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 2px solid black;
+}
+
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 2px solid black;
+}
+
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 2px solid black;
+}
+
+.box4{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 2px solid black;
+}
+
+
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+}
+
+
+body{
+
+
+background-image: url(20210711141148_IMG_4092.JPG);
+background-size:contain
+
+
+}
